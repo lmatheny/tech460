@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tech460/static/css/main.77f7881e.css",
+    "main.js": "/tech460/static/js/main.19b7bc20.js",
+    "static/js/453.297f0027.chunk.js": "/tech460/static/js/453.297f0027.chunk.js",
+    "static/media/i1.png": "/tech460/static/media/i1.14b768dea15356f276c4.png",
+    "static/media/i2.jpeg": "/tech460/static/media/i2.19dda95dc2e0a7060c0f.jpeg",
+    "static/media/i4.png": "/tech460/static/media/i4.63be86395b4c7a5464d5.png",
+    "static/media/i5.jpeg": "/tech460/static/media/i5.37cdd745178cff3c99d8.jpeg",
+    "static/media/i3.jpeg": "/tech460/static/media/i3.d424c9127e8d7a755d15.jpeg",
+    "static/media/logo.svg": "/tech460/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tech460/index.html",
+    "main.77f7881e.css.map": "/tech460/static/css/main.77f7881e.css.map",
+    "main.19b7bc20.js.map": "/tech460/static/js/main.19b7bc20.js.map",
+    "453.297f0027.chunk.js.map": "/tech460/static/js/453.297f0027.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f7881e.css",
+    "static/js/main.19b7bc20.js"
+  ]
+}
